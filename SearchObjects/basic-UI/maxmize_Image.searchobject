@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701941967.586,
+	"lastfoundlocation": [
+		956,
+		40,
+		33,
+		37
+	],
+	"originalcapturelocation": [
+		956,
+		40,
+		33,
+		37
+	],
+	"createddate": 1701941967.586,
+	"lastfounddate": 1701943694.5139999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[16,18]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "basic-UI/maxmize_Image.png",
+				"connectionname": "192.168.29.13",
+				"type": 1,
+				"capturerect": [
+					956,
+					40,
+					33,
+					37
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.13"
+			}
+	],
+	"name": "basic-UI/maxmize_Image"
+}
