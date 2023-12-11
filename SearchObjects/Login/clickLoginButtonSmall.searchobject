@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702297809.925,
+	"ocrcapturestring": "Log in",
+	"originalcapturelocation": [
+		446,
+		549,
+		250,
+		67
+	],
+	"createddate": 1702297809.925,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_71",
+					"HotSpot": "[275,31]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/clickLoginButtonSmall.png",
+				"connectionname": "192.168.0.55",
+				"type": 1,
+				"connectionserverid": "192.168.0.55",
+				"capturerect": [
+					446,
+					549,
+					250,
+					67
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log in"
+			}
+	],
+	"name": "Login/clickLoginButtonSmall"
+}

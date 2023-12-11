@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702311846.5019999,
+	"ocrcapturestring": "SUBMIT",
+	"originalcapturelocation": [
+		487,
+		579,
+		56,
+		26
+	],
+	"createddate": 1702311846.5019999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_60",
+					"HotSpot": "[66,13]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/submitClick.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"connectionserverid": "192.168.1.19",
+				"capturerect": [
+					487,
+					579,
+					56,
+					26
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "SUBMIT"
+			}
+	],
+	"name": "Login/submitClick"
+}

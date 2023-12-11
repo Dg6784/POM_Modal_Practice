@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1702312990.582,
+	"originalcapturelocation": [
+		795,
+		425,
+		64,
+		70
+	],
+	"createddate": 1702312990.582,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_1",
+					"HotSpot": "[32,35]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Precise to Pixel"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/emptyImageClick.png",
+				"connectionname": "192.168.1.19",
+				"type": 1,
+				"capturerect": [
+					795,
+					425,
+					64,
+					70
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.1.19"
+			}
+	],
+	"name": "Login/emptyImageClick"
+}

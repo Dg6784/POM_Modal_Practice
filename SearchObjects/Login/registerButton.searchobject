@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702302319.9819999,
+	"ocrcapturestring": "& REGISTER",
+	"originalcapturelocation": [
+		840,
+		105,
+		107,
+		41
+	],
+	"createddate": 1702302319.9819999,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_62",
+					"HotSpot": "[56,31]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/registerButton.png",
+				"connectionname": "192.168.0.55",
+				"type": 1,
+				"connectionserverid": "192.168.0.55",
+				"capturerect": [
+					840,
+					105,
+					107,
+					41
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "& REGISTER"
+			}
+	],
+	"name": "Login/registerButton"
+}

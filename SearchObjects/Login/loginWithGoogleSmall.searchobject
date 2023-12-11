@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702298232.8860002,
+	"ocrcapturestring": "G Log in with Google",
+	"originalcapturelocation": [
+		391,
+		686,
+		239,
+		36
+	],
+	"createddate": 1702298232.8860002,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_45",
+					"HotSpot": "[279,18]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/loginWithGoogleSmall.png",
+				"connectionname": "192.168.0.55",
+				"type": 1,
+				"connectionserverid": "192.168.0.55",
+				"capturerect": [
+					391,
+					686,
+					239,
+					36
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "G Log in with Google"
+			}
+	],
+	"name": "Login/loginWithGoogleSmall"
+}
