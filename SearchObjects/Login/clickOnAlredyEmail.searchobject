@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		331,
+		355,
+		395,
+		78
+	],
+	"lastmodifieddate": 1702042390.773,
+	"createddate": 1702042390.773,
+	"name": "Login/clickOnAlredyEmail",
+	"lastfounddate": 1702042391.734,
+	"ocrcapturestring": "Type 7 to search from your saved info divyankgupta143@gmail.com",
+	"lastfoundlocation": [
+		331,
+		355,
+		395,
+		78
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[197,39]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/clickOnAlredyEmail.png",
+				"connectionname": "192.168.0.240",
+				"type": 1,
+				"connectionserverid": "192.168.0.240",
+				"capturerect": [
+					331,
+					355,
+					395,
+					78
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Type 7 to search from your saved info divyankgupta143@gmail.com"
+			}
+	]
+}

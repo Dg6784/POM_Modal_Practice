@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702314014.52,
-	"ocrcapturestring": "Your Email*",
 	"originalcapturelocation": [
 		509,
 		466,
 		64,
 		27
 	],
+	"lastmodifieddate": 1702314014.52,
 	"createddate": 1702314014.52,
+	"name": "signUp/emailInput1",
+	"lastfounddate": 1702314449.7079999,
+	"ocrcapturestring": "Your Email*",
+	"lastfoundlocation": [
+		509,
+		466,
+		64,
+		27
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_38",
-					"HotSpot": "[90,11]",
 					"Scale": "    1",
+					"HotSpot": "[90,11]",
+					"Tolerance": "_38",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "Your Email*"
 			}
-	],
-	"name": "signUp/emailInput1"
+	]
 }

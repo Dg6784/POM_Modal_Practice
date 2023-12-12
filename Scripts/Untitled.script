@@ -1,0 +1,9 @@
+﻿loginPage.loginPage
+
+click imageName:"Login/loginButton", waitFor:20
+If ImageFound(imageName:"Login/divvyankTextBlack", waitFor:3) then
+	Log "Successfully login"
+	
+Else
+	log "Failed account verification"
+End if

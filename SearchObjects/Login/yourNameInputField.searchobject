@@ -1,29 +1,37 @@
 {
-	"lastmodifieddate": 1702302365.75,
-	"ocrcapturestring": "Your Name*",
 	"originalcapturelocation": [
 		596,
 		390,
 		93,
 		31
 	],
+	"lastmodifieddate": 1702302587.2049999,
 	"createddate": 1702302365.75,
+	"name": "Login/yourNameInputField",
+	"lastfounddate": 1702314445.7309999,
+	"ocrcapturestring": "Your Name*",
+	"lastfoundlocation": [
+		494,
+		409,
+		93,
+		31
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_38",
-					"HotSpot": "[116,12]",
 					"Scale": "    1",
+					"HotSpot": "[116,12]",
+					"Tolerance": "_38",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "Login/yourNameInputField.png",
+				"name": "signUp/yourNameInputField.png",
 				"connectionname": "192.168.0.55",
 				"type": 1,
 				"connectionserverid": "192.168.0.55",
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "Your Name*"
 			}
-	],
-	"name": "Login/yourNameInputField"
+	]
 }

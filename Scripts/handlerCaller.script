@@ -1,1 +1,16 @@
-﻿handlersScript.greetTheUser
+﻿dashboardPage.LaunchBrowser
+loginPage.loginPage
+(*
+loginpage.loginWithGoogle
+*)
+(*basicUI.navigateAboutOption
+
+loginPage.loginPage*)
+(*
+signUp.joinNowToPractice
+*)
+
+
+
+
+

@@ -1,0 +1,18 @@
+﻿put Bonjour into greeting
+put Bonjour into greeting2
+log greeting
+log greeting2
+delete local greeting
+log greeting
+
+
+put {width:7,length:12} into myRect
+set the script of myRect to {{
+function area
+  return my width * my length
+end area
+}}
+
+put myRect's area --> 84
+
+

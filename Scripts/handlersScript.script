@@ -1,13 +1,31 @@
 ﻿to greetTheUser
 	put "Welcome to SenseTalk. Happy scripting!"
-end greetTheUser
+end greetTheUser 
+
+
+To LaunchBrowser
+	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
+	TypeText "https://rahulshettyacademy.com/practice-project"
+	Wait 3 Seconds 
+	TypeText return
+End LaunchBrowser
+
+to greetTheUser1
+	If ImageFound("basic-UI/launchBrowser") then
+		Log "Success"
+	Else
+		Log "Failed"
+	End if
+	
+end greetTheUser1
+
 to handle increaseSize given amount
 	if amount is empty then add 1 to my size else add amount to my size
 end increaseSize
 
 
 on addToTotal newAmount
-	add newAmount to global total -- Store total in a global variable
+	add newAmount to global total
 	log global total
 end addToTotal
 
@@ -17,13 +35,12 @@ function quotient of dividend, divisor
 end quotient
 
 
-castSpell {spellName:"sleep", potency:"deep", duration:15 minutes} by name --This is the calling command, passing a single property list by name
+castSpell {spellName:"sleep", potency:"deep", duration:15 minutes}
 
-to castSpell spellName, duration, potency --The parameter variables set up here will now simply refer to the value of the corresponding property key. Order does not matter; "sleep" will be inserted into the spellName variable, "deep" into potency, and 15 minutes into duration.
-	//Do things to cast the spell:
+to castSpell spellName, duration, potency 
 	Put duration and potency into Cauldron
-	Stir Cauldron -- A custom call that executes the spell
-	Log "Alakazam!: " & spellName -- A message confirming that the spell has been cast
+	Stir Cauldron
+	Log "Alakazam!: " & spellName 
 end castSpell
 
 

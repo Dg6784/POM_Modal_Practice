@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		727,
+		714,
+		110,
+		54
+	],
+	"lastmodifieddate": 1702038937.016,
+	"createddate": 1702038937.016,
+	"name": "Login/nextButtonAfterEnterEmail",
+	"lastfounddate": 1702358516.7509999,
+	"ocrcapturestring": "Next",
+	"lastfoundlocation": [
+		625,
+		583,
+		110,
+		54
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[55,27]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/nextButtonAfterEnterEmail.png",
+				"connectionname": "192.168.0.240",
+				"type": 1,
+				"connectionserverid": "192.168.0.240",
+				"capturerect": [
+					727,
+					714,
+					110,
+					54
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Next"
+			}
+	]
+}

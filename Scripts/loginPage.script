@@ -1,0 +1,57 @@
+﻿(*to loginpage
+	click imageName:"Login/loginButton", waitFor:3
+	Click imageName:"Login/emailField", waitFor:3
+	TypeText "divyankgupta143@gmail.com"
+	Click imageName:"Login/passwordField", waitFor:3
+	TypeText "Divy@nkg6784"
+	Click imageName:"Login/loginButtonClick", waitFor:3
+	
+end loginpage*)
+
+to loginPage
+	click imageName:"Login/loginButton", waitFor:20
+	Click imageName:"Login/emailField", waitFor:15
+	TypeText "divyankgupta143@gmail.com"
+	Click imageName:"Login/passwordInputField", waitFor:10
+	TypeText "Divy@nkg6784"
+	Click imageName:"Login/loginButtonClick", waitFor:10
+end loginPage
+
+
+
+
+
+to loginWithGoogle
+	ScrollWheelDown 1
+	wait 5
+	Click imageName:"Login/loginWithGoogleSmall", waitFor:5
+	Click imageName:"Login/emailInput", waitFor:5
+	TypeText "divyankgupta143@gmail.com"
+	wait 5
+	Click imageName:"Login/nextButtonAfterEnterEmail", waitFor:3
+	Click imageName:"Login/enteryourpasswordShowpassword", waitFor:3
+	TypeText "Divy@nkg6784"
+	wait 5
+	Click imageName:"Login/checkboxShowpassword", waitFor:3
+	Click imageName:"Login/nextButtonLogin", waitFor:3
+	If ImageFound(imageName:"Login/divvyankTextBlack", waitFor:3) then
+		Log "Successfully login"
+		
+	Else
+		log "Failed account verification"
+	End if
+	
+	
+end loginWithGoogle
+
+
+
+
+
+
+
+
+
+
+
+

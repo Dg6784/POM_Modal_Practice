@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702297809.925,
-	"ocrcapturestring": "Log in",
 	"originalcapturelocation": [
 		446,
 		549,
 		250,
 		67
 	],
+	"lastmodifieddate": 1702297809.925,
 	"createddate": 1702297809.925,
+	"name": "Login/clickLoginButtonSmall",
+	"lastfounddate": 1702297814.3509998,
+	"ocrcapturestring": "Log in",
+	"lastfoundlocation": [
+		446,
+		549,
+		250,
+		67
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_71",
-					"HotSpot": "[275,31]",
 					"Scale": "    1",
+					"HotSpot": "[275,31]",
+					"Tolerance": "_71",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "Log in"
 			}
-	],
-	"name": "Login/clickLoginButtonSmall"
+	]
 }

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		732,
+		674,
+		103,
+		77
+	],
+	"lastmodifieddate": 1702038797.5929999,
+	"createddate": 1702038797.5929999,
+	"name": "Login/nextButtonLogin",
+	"lastfounddate": 1702358526.237,
+	"ocrcapturestring": "Next",
+	"lastfoundlocation": [
+		630,
+		627,
+		103,
+		77
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[51,38]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/nextButtonLogin.png",
+				"connectionname": "192.168.0.240",
+				"type": 1,
+				"connectionserverid": "192.168.0.240",
+				"capturerect": [
+					732,
+					674,
+					103,
+					77
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Next"
+			}
+	]
+}

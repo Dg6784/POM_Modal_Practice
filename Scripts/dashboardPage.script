@@ -1,0 +1,9 @@
+﻿To LaunchBrowser
+	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
+	TypeText "https://rahulshettyacademy.com/practice-project"
+	Wait 3 Seconds 
+	TypeText return
+	Wait 3 Seconds 
+End LaunchBrowser
+
+

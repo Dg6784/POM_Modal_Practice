@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1702038492.46,
+	"lastfoundlocation": [
+		849,
+		151,
+		78,
+		59
+	],
+	"originalcapturelocation": [
+		943,
+		96,
+		78,
+		59
+	],
+	"createddate": 1702038492.46,
+	"lastfounddate": 1702295605.9190001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[39,29]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/loginButton.png",
+				"connectionname": "192.168.0.240",
+				"type": 1,
+				"capturerect": [
+					943,
+					96,
+					78,
+					59
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.240"
+			}
+	],
+	"name": "Login/loginButton"
+}

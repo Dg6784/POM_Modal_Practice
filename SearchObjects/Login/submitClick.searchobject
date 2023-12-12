@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702311846.5019999,
-	"ocrcapturestring": "SUBMIT",
 	"originalcapturelocation": [
 		487,
 		579,
 		56,
 		26
 	],
+	"lastmodifieddate": 1702311846.5019999,
 	"createddate": 1702311846.5019999,
+	"name": "Login/submitClick",
+	"lastfounddate": 1702314452.3329999,
+	"ocrcapturestring": "SUBMIT",
+	"lastfoundlocation": [
+		506,
+		562,
+		56,
+		26
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_60",
-					"HotSpot": "[66,13]",
 					"Scale": "    1",
+					"HotSpot": "[66,13]",
+					"Tolerance": "_60",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "SUBMIT"
 			}
-	],
-	"name": "Login/submitClick"
+	]
 }

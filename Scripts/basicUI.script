@@ -1,18 +1,21 @@
-﻿DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
-//Click "basic-UI/maxmize_Image"
-TypeText "https://rahulshettyacademy.com/practice-project"
-Wait 3 Seconds 
-TypeText return
-Click imageName:"basic-UI/home_textImage", waitFor:5
-Click imageName:"basic-UI/courses_textImage", waitFor:5
-Click imageName:"basic-UI/more_textImagew", waitFor:5
-Click imageName:"basic-UI/AboutUsOption", waitFor:5
+﻿
 
-// Type the text of the option you want to select
+to navigateAboutOption
+	DoubleClick imageName:"basic-UI/launchBrowser", waitFor:3
+	//Click "basic-UI/maxmize_Image"
+	TypeText "https://rahulshettyacademy.com/practice-project"
+	Wait 3 Seconds 
+	TypeText return
+	Click imageName:"basic-UI/home_textImage", waitFor:5
+	Click imageName:"basic-UI/courses_textImage", waitFor:5
+	Click imageName:"basic-UI/more_textImagew", waitFor:5
+	Click imageName:"basic-UI/AboutUsOption", waitFor:5
+end navigateAboutOption
 
-// Wait for a short period to allow the selection to take effect
 
-handlers_Script.greetTheUser
+
+
+
 
 
 

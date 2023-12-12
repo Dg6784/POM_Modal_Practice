@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		997,
+		293,
+		123,
+		33
+	],
+	"lastmodifieddate": 1702358889.1529999,
+	"createddate": 1702358889.1529999,
+	"name": "Login/divvyankTextBlack",
+	"lastfounddate": 1702358912.707,
+	"ocrcapturestring": "Divyank Gupta",
+	"lastfoundlocation": [
+		997,
+		293,
+		123,
+		33
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[61,16]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/divvyankTextBlack.png",
+				"connectionname": "192.168.0.96",
+				"type": 1,
+				"connectionserverid": "192.168.0.96",
+				"capturerect": [
+					997,
+					293,
+					123,
+					33
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Divyank Gupta"
+			}
+	]
+}

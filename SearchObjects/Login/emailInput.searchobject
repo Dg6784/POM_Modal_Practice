@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		446,
+		429,
+		381,
+		77
+	],
+	"lastmodifieddate": 1702038722.0700002,
+	"createddate": 1702038722.0700002,
+	"name": "Login/emailInput",
+	"lastfounddate": 1702358510.6009998,
+	"ocrcapturestring": "Email or phone",
+	"lastfoundlocation": [
+		345,
+		326,
+		381,
+		77
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[190,38]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Login/emailInput.png",
+				"connectionname": "192.168.0.240",
+				"type": 1,
+				"connectionserverid": "192.168.0.240",
+				"capturerect": [
+					446,
+					429,
+					381,
+					77
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Email or phone"
+			}
+	]
+}

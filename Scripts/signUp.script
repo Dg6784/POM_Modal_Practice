@@ -1,0 +1,21 @@
+﻿dashboardPage.LaunchBrowser
+
+to joinNowToPractice
+	Click imageName:"signUp/yourNameInputField", waitFor:3
+	TypeText "Divyank gupta"
+	wait 3
+	Click imageName:"signUp/emailInput1", waitFor:3
+	TypeText "divyankgupta143@gmail.com"
+	Click imageName:"Login/emptyImageClick", waitFor:3
+	Click imageName:"Login/submitClick", waitFor:3
+end joinNowToPractice
+
+
+
+
+
+
+
+
+
+
